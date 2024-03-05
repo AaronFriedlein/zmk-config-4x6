@@ -20,7 +20,7 @@
                 &kp LCTRL &kp Z  &kp X  &kp C  &kp V  &kp B               &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHIFT
                                  &kp LBKT &kp RBKT                                      &kp MINUS &kp EQUAL
                                             &kp LSHFT  &kp RETURN         &kp BSPC  &kp SPACE
-                                            &mo RSE    &kp LALT           &kp DEL   &mo LWR
+                                            &mo LWR    &kp LALT           &kp DEL   &mo RSE
                                             &kp HOME   &kp GRAVE          &kp LGUI  &kp END
             >;
         };
