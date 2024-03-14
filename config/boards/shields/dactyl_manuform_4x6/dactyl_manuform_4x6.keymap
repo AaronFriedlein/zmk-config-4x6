@@ -7,6 +7,7 @@
 #define LWR 1
 #define RSE 2
 #define GME 3
+#define GSH 4
 
 / {
     keymap {
